@@ -15,7 +15,7 @@ export default {
     name: "Lista",
     props: {
         titulo: String,
-        tech: []
+        tech: Array
     }
 };
 </script>
